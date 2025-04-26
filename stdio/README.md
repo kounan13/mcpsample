@@ -1,4 +1,15 @@
+# やったこと
 
+## mcpのインストール
+```
+stdio % python min_client.py 
+Traceback (most recent call last):
+  File "/Users/yuji/Study/git/mcpsample/stdio/min_client.py", line 2, in <module>
+    from mcp.client.stdio import stdio_client, StdioServerParameters
+stdio % pip3 install mcp
+```
+
+## 動かしてみた
 
 ```
 stdio % python mini_server.py
